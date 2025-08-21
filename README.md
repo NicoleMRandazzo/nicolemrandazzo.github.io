@@ -12,12 +12,19 @@ This website contains examples of projects I have done during my time in univers
 ---
 
 ## Emphasis
+
 **This is bold text**
+
 __This is bold text__
+
 *This is italic text*
+
 _This is italic text_
+
 ~~Strikethrough~~
 
 ## Links
+
 [link text] (www.linkedin.com/in/nicole-m-randazzo-69749628b)
+
 [link with title] (www.linkedin.com/in/nicole-m-randazzo-69749628b "LinkedIn")
