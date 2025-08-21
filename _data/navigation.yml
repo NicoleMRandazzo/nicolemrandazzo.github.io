@@ -1,8 +1,8 @@
-- name: About Me
+- name: Products
   link: /
   new_window: false
   highlight: true
-- name: Projects
+- name: About
   link: /about/
   new_window: false
   highlight: false
