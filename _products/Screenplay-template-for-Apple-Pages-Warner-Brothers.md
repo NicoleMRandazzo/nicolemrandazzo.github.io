@@ -47,8 +47,6 @@ The template is set in Courier, the traditional screenplay font, but if you want
 
 <a href="https://gum.co/Warner-Brothers-screenplay" class="no-underline pv2 grow db"><img class="w-100" src="{{site.baseurl}}/images/templates/screenplay/Screenplay_Warner_Brothers_template.png"></a>
 
-{% include gumroad-overlay.html id="Warner-Brothers-screenplay" %}
-
 ## Cole and Haag screenplay template for Apple Pages
 
 A free custom template for [Apple Pages](https://www.apple.com/pages/), the free Apple productivity app, designed to help you writing in screenplay form.
