@@ -1,8 +1,8 @@
-- name: About
+t- name: Project
   link: /
   new_window: false
   highlight: true
-- name: Project
+- name: About Me
   link: /about/
   new_window: false
   highlight: false
