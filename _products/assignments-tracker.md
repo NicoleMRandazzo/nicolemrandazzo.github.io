@@ -25,5 +25,3 @@ This is a free spreadsheet template for [Apple Numbers](https://www.apple.com/nu
 
 
 <a href="https://gum.co/invoices-tracker" class="no-underline pv2 grow db"><img class="w-100" src="{{site.baseurl}}/images/templates/assignments/assignments_tracker_spreadsheet.png"></a>
-
-{% include gumroad-overlay.html id="invoices-tracker" %}
