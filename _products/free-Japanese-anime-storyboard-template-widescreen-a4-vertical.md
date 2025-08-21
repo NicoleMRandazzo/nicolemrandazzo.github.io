@@ -37,8 +37,6 @@ If you like to draw your storyboards on paper and need to work within 1.85:1 rat
 
 <a href="https://gum.co/ghibli-storyboard" class="no-underline pv2 grow db"><img class="w-100" src="{{site.baseurl}}/images/templates/free-pdf-storyboards/Japanese_Anime_storyboard-template_1.85x1_A4-vertical.png"></a>
 
-{% include gumroad-overlay.html id="ghibli-storyboard" %}
-
 If you are looking for an editable version of this template in Adobe InDesign, you can find the IDML version here: [https://gum.co/Id_Ghibli-storyboard](https://gum.co/Id_Ghibli-storyboard).
 
 The free, PDF version of this template is also available in English, here: [https://gum.co/ghibli-storyboard-english](https://gum.co/ghibli-storyboard-english).
