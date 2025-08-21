@@ -19,8 +19,6 @@ Browse through a [live demo](https://templates.supply).
 
 <a href="https://gum.co/supply" class="no-underline pv2 grow db"><img class="w-100" src="{{site.baseurl}}/images/screenshot.png"></a>
 
-{% include gumroad-overlay.html id="supply" %}
-
 Find more [templates, themes and Jekyll tutorials](https://jekyllrb.com/resources/).
 
 ## Features
