@@ -2,7 +2,7 @@ t- name: Project
   link: /
   new_window: false
   highlight: true
-- name: About Me
+- name: About
   link: /about/
   new_window: false
   highlight: false
