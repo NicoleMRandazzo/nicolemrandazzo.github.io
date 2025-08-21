@@ -139,11 +139,6 @@ You will find a series of product samples in the `_products` collection folder. 
 You can manually create pages based on this index to [sort your products or any other collection by custom variable](/custom-variables/).
 
 Write something like:
-Write something like:
-
-```html
-{% raw %}<a href="https://gum.co/supply class="no-underline pv2 grow db"><img class="w-100" src="/images/screenshot.png"></a>
-```
 
 to get a product display like this:
 
