@@ -1,4 +1,4 @@
-# Nicole M. Randazzo
+# Nicole M. Randazzooo
 ## Major in Biomedical Engineering
 This website contains examples of projects I have done during my time in university. 
 
