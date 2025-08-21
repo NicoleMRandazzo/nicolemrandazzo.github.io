@@ -1,8 +1,8 @@
-t- name: Products
+- name: Products
   link: /
   new_window: false
   highlight: true
-t- name: About
+- name: About
   link: /about/
   new_window: false
   highlight: false
