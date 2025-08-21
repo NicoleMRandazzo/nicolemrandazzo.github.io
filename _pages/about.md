@@ -6,8 +6,6 @@ text-button: I demand Supply!
 last_modified_at: 2025-06-22
 ---
 ## Supply, a Jekyll theme
-Supply is an e-commerce template for [Jekyll](https://jekyllrb.com/) + [Gumroad](https://gumroad.com), designed with [Tachyons CSS](https://github.com/tachyons-css/tachyons) by [alternatyves](https://alternatyves.com/).
-If you are a Gumroad creator, you can use Supply with Jekyll to display products within your site or blog.
 
 [Supply Code on GitHub](https://github.com/YJPL/Supply/){: .btn .btn-outline--secondary }
 
@@ -17,8 +15,6 @@ If you are a Gumroad creator, you can use Supply with Jekyll to display products
 
 
 <a href="https://gum.co/supply" class="no-underline pv2 grow db"><img class="w-100" src="/images/templates/jekyll/Supply-temp.png"></a>
-
-{% include gumroad-overlay.html id="supply" %}
 
 Find more [templates, themes, and Jekyll tutorials](https://jekyllrb.com/resources/).
 
