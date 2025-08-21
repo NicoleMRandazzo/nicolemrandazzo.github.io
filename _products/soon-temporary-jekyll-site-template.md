@@ -35,5 +35,3 @@ Get Soon or contribute code on GitHub: [https://github.com/YJPL/soon](https://gi
 </p>
 
 <a href="https://gum.co/soon-jekyll" class="no-underline pv2 grow db"><img class="w-100" src="{{site.baseurl}}/images/templates/jekyll/Soon_Jekyll-template-sample.png"></a>
-
-{% include gumroad-overlay.html id="soon-jekyll" %}
