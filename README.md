@@ -1,4 +1,5 @@
-# NicoleMRandazzo.github.io
+# Nicole M. Randazzo
+## Major in Biomedical Engineering
 This website contains examples of projects I have done during my time in university. 
 
 # h1 heading
