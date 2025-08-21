@@ -87,5 +87,3 @@ The template is set in Courier, the traditional screenplay font, but if you want
 
 
 <a href="https://gum.co/Cole-Haag-screenplay" class="no-underline pv2 grow db"><img class="w-100" src="{{site.baseurl}}/images/templates/screenplay/Screenplay_Cole_Haag_template.png"></a>
-
-{% include gumroad-overlay.html id="Cole-Haag-screenplay" %}
