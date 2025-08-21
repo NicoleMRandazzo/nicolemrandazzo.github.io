@@ -2,7 +2,7 @@ t- name: Products
   link: /
   new_window: false
   highlight: true
-- name: About
+t- name: About
   link: /about/
   new_window: false
   highlight: false
