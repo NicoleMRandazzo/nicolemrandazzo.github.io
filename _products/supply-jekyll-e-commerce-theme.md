@@ -1,5 +1,5 @@
 ---
-title: Supply
+title: Nicole M. Randazzo
 layout: product
 software: Jekyll
 cat: web
