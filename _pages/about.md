@@ -138,22 +138,16 @@ To display products, Supply uses a collection called ```product```
 You will find a series of product samples in the `_products` collection folder. By design, all the products are on display on the home page, in Supply, that is `ìndex.html`.
 You can manually create pages based on this index to [sort your products or any other collection by custom variable](/custom-variables/).
 
-You can also add your products in regular posts, using the Gumroad [overlay](/gumroad-overlay/), [embed](/gumroad-embed/), and [hyperlinks](/gumroad-hyperlink/) method, thanks to an include snippet.
-
 Write something like:
 Write something like:
 
 ```html
 {% raw %}<a href="https://gum.co/supply class="no-underline pv2 grow db"><img class="w-100" src="/images/screenshot.png"></a>
-
-{% include gumroad-overlay.html id="supply" %}{% endraw %}
 ```
 
 to get a product display like this:
 
 <a href="https://gum.co/supply" class="no-underline pv2 grow db"><img class="w-100" src="/images/screenshot.png"></a>
-
-{% include gumroad-overlay.html id="supply" %}
 
 Free and open-source.
 
