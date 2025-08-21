@@ -1,4 +1,4 @@
-t- name: Projects
+- name: Projects
   link: /
   new_window: false
   highlight: true
