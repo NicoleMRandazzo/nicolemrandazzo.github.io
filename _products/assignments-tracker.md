@@ -7,6 +7,11 @@ date: 2019-03-18 13:20:50 +0100
 text-button: This could be useful. Can I get it?
 image: /images/templates/assignments/sp1.png
 ---
-
+### Class: BME 335: Engineering Probability/Statistics
+### Semester: Spring 2025
+### Skills: R Studio
+<br>
+<br>
+<br>
 # Freelancing Assignments, Invoices & Incomes Tracker
 <img class="w-100" src="{{site.baseurl}}/images/templates/assignments/assignments_tracker_spreadsheet.png">
