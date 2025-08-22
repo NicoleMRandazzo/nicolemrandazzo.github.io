@@ -1,5 +1,5 @@
 ---
-title: Redesign Project: Folding Table for Lecture Chairs
+title: Redesign Project - Folding Table for Lecture Chairs
 layout: product
 description_markdown: >-
   A project to redesign a current object while addressing customer needs. 
