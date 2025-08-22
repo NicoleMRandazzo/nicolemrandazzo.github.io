@@ -5,7 +5,7 @@ description_markdown: >-
   Project to use Python or C++ to model a situation with neighborhoods.
 date: 2020-04-23 11:48:06 +0100
 text-button: Let me try this!
-image: /images/templates/jekyll/Soon_Jekyll-template-sample.png
+image: /images/templates/jekyll/CP1.png
 ---
 
 ## Soon is a simple "coming soon" page built for Jekyll.
