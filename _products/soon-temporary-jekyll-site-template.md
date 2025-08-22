@@ -1,5 +1,5 @@
 ---
-title: Coding Project: Predator-Prey Relation in the Gulf Of Mexico Following the 2010 Deepwater Horizon Oil Spill
+title: Coding Project - Predator-Prey Relation in the Gulf Of Mexico Following the 2010 Deepwater Horizon Oil Spill
 layout: product
 description_markdown: >-
   Project to use Python or C++ to model a situation with neighborhoods.
