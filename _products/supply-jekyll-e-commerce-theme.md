@@ -5,7 +5,7 @@ description_markdown: >-
   A project to redesign a current object while addressing customer needs. 
 date: 2020-05-09 11:48:06 +0100
 text-button: I demand Supply!
-image: /images/templates/jekyll/Supply-temp-square.png
+image: /images/templates/jekyll/rp1.png
 ---
 ## Supply, an e-commerce theme for Jekyll + Gumroad
 Supply is an e-commerce template 
