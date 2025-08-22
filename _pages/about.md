@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: About Me
-hero: About
+hero: About Me
 text-button: I demand Supply!
 last_modified_at: 2025-06-22
 ---
