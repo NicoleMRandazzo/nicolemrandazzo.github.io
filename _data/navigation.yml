@@ -1,8 +1,9 @@
-- name: About Me
-  link: /about/
-  new_window: false
-  highlight: false
 - name: Projects
   link: /
   new_window: false
   highlight: true
+  - name: About Me
+  link: /about/
+  new_window: false
+  highlight: false
+
