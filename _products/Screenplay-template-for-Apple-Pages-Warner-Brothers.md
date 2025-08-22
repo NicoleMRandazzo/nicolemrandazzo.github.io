@@ -7,7 +7,7 @@ description_markdown: >-
   Screenplay templates for Apple Pages
 date: 2020-01-21 23:12:06 +0100
 text-button: I need this template to write my script!
-image: /images/templates/screenplay/Screenplay_Warner_Brothers_template.png
+image: /images/templates/screenplay/CircuitMain.jpg
 ---
 
 ## Warner Brothers screenplay template for Apple Pages
