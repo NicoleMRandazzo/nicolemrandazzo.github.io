@@ -1,8 +1,9 @@
 ---
 title: Circuit Project - ECG PCB and Circuit Design
 layout: product
-software: Apple Pages
-cat: writing
+class: BME 214L- Computational Fundamentals of BME Design
+semester: Fall 2024
+skills: TinkerCad, Fusion 360, soldering, LabVIEW
 description_markdown: >-
   Screenplay templates for Apple Pages
 date: 2020-01-21 23:12:06 +0100
