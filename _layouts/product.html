@@ -19,7 +19,7 @@ layout: default
 					{% if page.ratio %}
 					<h5>Film Ratio: {{ page.ratio }}</h5>
 					{% endif %}
-					
+{% comment %}					
 {% if page.url == "/" and page.definition %}
   <div class="definition">{{ page.definition }}</div>
 {% endif %}
@@ -27,7 +27,7 @@ layout: default
 <span itemprop="description">
 					{{ page.description_markdown | markdownify }}
 </span>
-
+{% endcomment %}		
 		</div>
 	</section>
 </div>
