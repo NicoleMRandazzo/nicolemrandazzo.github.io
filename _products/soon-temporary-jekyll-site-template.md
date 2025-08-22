@@ -7,6 +7,11 @@ date: 2020-04-23 11:48:06 +0100
 text-button: Let me try this!
 image: /images/templates/jekyll/CP1.png
 ---
-
-## Soon is a simple "coming soon" page built for Jekyll.
+###Class: BME 303: Introduction to Computing
+###Semester: Spring 2024
+###Skills: Python
+<br>
+<br>
+<br>
+Soon is a simple "coming soon" page built for Jekyll.
 <img class="w-100" src="{{site.baseurl}}/images/templates/jekyll/Soon_Jekyll-template-sample.png">
