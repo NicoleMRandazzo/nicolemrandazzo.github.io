@@ -1,5 +1,5 @@
 ---
-title: Blood Flow Project: Evaluation of Blockage Size and Length in the Internal Carotid Artery
+title: Blood Flow Project - Evaluation of Blockage Size and Length in the Internal Carotid Artery
 layout: product
 description_markdown: >-
   Using fluid flow simulation of SolidWorks to see what fluid flow parameters change when plaque builds up inside the carotid artery. 
