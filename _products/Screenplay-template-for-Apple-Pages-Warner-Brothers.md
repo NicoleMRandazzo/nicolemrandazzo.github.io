@@ -4,6 +4,8 @@ layout: product
 class: BME 214L- Computational Fundamentals of BME Design
 semester: Fall 2024
 skills: TinkerCad, Fusion 360, soldering, LabVIEW
+description_markdown: >-
+  Project where we designed a circuit to measure ECG signal.
 date: 2020-01-21 23:12:06 +0100
 text-button: I need this template to write my script!
 image: /images/templates/screenplay/CircuitMain.jpg
