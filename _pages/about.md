@@ -1,7 +1,6 @@
 ---
-layout: default
-title: About Me
 permalink: /about/
+title: About Me
 hero: About
 text-button: I demand Supply!
 last_modified_at: 2025-06-22
