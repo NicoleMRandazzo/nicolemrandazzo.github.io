@@ -33,12 +33,12 @@ subtitle: This website contains examples of projects I have done during my time 
 							</div>
 
 							 <div class="project-meta">
-   								{% if product.semester %}
-   							   		<p><strong>Semester:</strong> {{ product.semester }}</p>
-   								{% endif %}
-    							{% if product.class %}
+   								{% if product.class %}
      								<p><strong>Class:</strong> {{ product.class }}</p>
     							{% endif %}
+								 {% if product.semester %}
+   							   		<p><strong>Semester:</strong> {{ product.semester }}</p>
+   								{% endif %}
    							 	{% if product.skills %}
       								<p><strong>Skills:</strong>
         								{% for skill in product.skills %}
