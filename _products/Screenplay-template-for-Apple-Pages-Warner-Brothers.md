@@ -13,7 +13,7 @@ image: /images/templates/screenplay/Screenplay_Warner_Brothers_template.png
 ---
 
 ## Warner Brothers screenplay template for Apple Pages
-
+Find more [templates, themes, and Jekyll tutorials](https://jekyllrb.com/resources/).
 A free template to help you write in screenplay form (Warner Brothers format) with [Apple Pages](https://www.apple.com/pages/), the free Apple productivity app.
 
 The title page is pretty much self-explanatory: you can write your title, credit and add you contact details.
