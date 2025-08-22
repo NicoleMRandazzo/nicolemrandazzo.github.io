@@ -4,7 +4,7 @@ layout: product
 description_markdown: >-
   Semester-long research project related to the Tiny World Project to fight against antibiotic resistance.
 text-button: Can I get this template, please?
-image: /images/templates/free-pdf-storyboards/storyboard-anime-template_1.85x1_A4-vertical_photoshop_preview.png
+image: /images/templates/free-pdf-storyboards/bp.png
 ---
 
 ## Free PDF storyboard template for 1.85:1 aspect ratio anime films
