@@ -7,9 +7,9 @@ date: 2020-04-23 11:48:06 +0100
 text-button: Let me try this!
 image: /images/templates/jekyll/CP1.png
 ---
-###Class: BME 303: Introduction to Computing
-###Semester: Spring 2024
-###Skills: Python
+### Class: BME 303: Introduction to Computing
+### Semester: Spring 2024
+### Skills: Python
 <br>
 <br>
 <br>
