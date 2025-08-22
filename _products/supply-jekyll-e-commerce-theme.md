@@ -10,10 +10,9 @@ image: /images/templates/jekyll/rp1.png
 ### Class: BME 303L: Introduction to BME Design
 ### Semester: Fall 2023
 ### Skills: Fusion 360
-
-
-
-
+<br>
+<br>
+<br>
 Supply is an e-commerce template 
 
 <img class="w-100" src="{{site.baseurl}}/images/screenshot.png">
