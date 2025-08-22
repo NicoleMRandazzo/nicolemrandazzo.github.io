@@ -1,17 +1,19 @@
 ---
 title: Circuit Project - ECG PCB and Circuit Design
 layout: product
-class: BME 214L- Computational Fundamentals of BME Design
-semester: Fall 2024
-skills: TinkerCad, Fusion 360, soldering, LabVIEW
 description_markdown: >-
   Project where we designed a circuit to measure ECG signal.
 date: 2020-01-21 23:12:06 +0100
 text-button: I need this template to write my script!
 image: /images/templates/screenplay/CircuitMain.jpg
 ---
-
-## Warner Brothers screenplay template for Apple Pages
+### Class: BME 214L: Computational Fundamentals of BME Design
+### Semester: Fall 2024
+### Skills: TinkerCad, Fusion 360, soldering, LabVIEW
+<br>
+<br>
+<br>
+Warner Brothers screenplay template for Apple Pages
 Find more [templates, themes, and Jekyll tutorials](https://jekyllrb.com/resources/).
 A free template to help you write in screenplay form (Warner Brothers format) with [Apple Pages](https://www.apple.com/pages/), the free Apple productivity app.
 
