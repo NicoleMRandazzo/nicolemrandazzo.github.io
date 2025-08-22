@@ -19,12 +19,32 @@ subtitle: This website contains examples of projects I have done during my time 
 						</div>
 
 						<article itemprop="itemListElement" itemscope itemtype="http://schema.org/Offer" class="product-details dib v-mid lh-copy avenir">
-							<h3><a  itemprop="url" class="f5 f4-ns mb0 link black-90 link dim avenir" href="{{ product.url }}"><span itemprop="name">{{ product.title }}</span></a></h3>
+							<h3>
+								<a  itemprop="url" class="f5 f4-ns mb0 link black-90 link dim avenir" href="{{ product.url }}">
+									<span itemprop="name">{{ product.title }}</span>
+								</a>
+							</h3>
 							<h4 itemprop="itemOffered">Category: {{ product.cat }}</h4>
 
 							<div itemprop="description" class="product-description f6 f5 fw4 mt1 black-60 pb4">
 								{{ product.description_markdown | truncate: 92 | markdownify }}
 							</div>
+
+							 <div class="project-meta">
+   								{% if product.semester %}
+   							   		<p><strong>Semester:</strong> {{ product.semester }}</p>
+   								{% endif %}
+    							{% if product.class %}
+     								<p><strong>Class:</strong> {{ product.class }}</p>
+    							{% endif %}
+   							 	{% if product.skills %}
+      								<p><strong>Skills:</strong>
+        								{% for skill in product.skills %}
+          									<span class="skill-tag">{{ skill }}</span>
+        								{% endfor %}
+     								 </p>
+    							{% endif %}
+							 </div>
 
 						</article>
 
