@@ -1,12 +1,8 @@
 ---
-title: Free anime storyboard template
+title: Research Project - Identification and Analysis of Antibiotic-Producing Bacteria From Soil Sample
 layout: product
-software: PDF
-cat: [anime]
 description_markdown: >-
-  Free PDF storyboard template, Ghibli-style, for 1.85:1 aspect ratio anime films on A4-vertical, ready to print.
-id:
-price: Free
+  Semester-long research project related to the Tiny World Project to fight against antibiotic resistance.
 text-button: Can I get this template, please?
 image: /images/templates/free-pdf-storyboards/storyboard-anime-template_1.85x1_A4-vertical_photoshop_preview.png
 ---
