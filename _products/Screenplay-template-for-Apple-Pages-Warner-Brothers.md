@@ -1,5 +1,5 @@
 ---
-title: Screenplay templates
+title: Circuit Project: ECG PCB and Circuit
 layout: product
 software: Apple Pages
 cat: writing
