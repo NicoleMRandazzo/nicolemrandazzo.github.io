@@ -1,5 +1,5 @@
 ---
-title: Circuit Project - ECG PCB and Circuit
+title: Circuit Project - ECG PCB and Circuit Design
 layout: product
 software: Apple Pages
 cat: writing
