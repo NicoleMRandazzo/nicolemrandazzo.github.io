@@ -9,9 +9,9 @@ image: /images/templates/jekyll/rp1.png
 ---
 <div style="max-width: 1000px; margin: 0 auto; padding: 20px;">
   <img src="{{site.baseurl}}/images/templates/jekyll/rp1.png" style="display: block; margin: 0 auto; width: 100%; max-width: 600px;" />
-  ### Class: BME 303L: Introduction to BME Design
-  ### Semester: Fall 2023
-  ### Skills: Fusion 360
+  <h3>Class: BME 303L: Introduction to BME Design</h3>
+  <h3>Semester: Fall 2023</h3>
+  <h3>Skills: Fusion 360</h3>
   <br>
   <br>
   <p>
