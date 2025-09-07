@@ -14,7 +14,7 @@ image: /images/templates/jekyll/rp1.png
 <br>
 <br>
 
-<img class="w-100" src="{{site.baseurl}}/images/templates/rp2.png">
+<img class="w-100" src="{{site.baseurl}}/images/templates/jekyll/rp1.png">
 
   The objective of this project was to identify a physical object with a design flaw and propose a tangible modification to better meet user needs. Our team of three chose the folding tables for lecture chairs - commonly found in auditorium-style classrooms -  as our focus. The primary users and/or customers of this object are college students and educational institutions that utilize fixed seating. Drawing from our experience at UT Austin and conversations with fellow students, we pinpointed several recurring frustrations with these tables. 
 
