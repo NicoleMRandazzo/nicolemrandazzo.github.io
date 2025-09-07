@@ -12,8 +12,7 @@ image: /images/templates/jekyll/rp1.png
   <h3>Class: BME 303L: Introduction to BME Design</h3>
   <h3>Semester: Fall 2023</h3>
   <h3>Skills: Fusion 360</h3>
-  <br>
-  <br>
+  
   <p>
     &emsp;The objective of this project was to identify a physical object with a design flaw and propose a tangible modification to better meet user needs. Our team of three chose the folding tables for lecture chairs - commonly found in auditorium-style classrooms -  as our focus. The primary users and/or customers of this object are college students and educational institutions that utilize fixed seating. Drawing from our experience at UT Austin and conversations with fellow students, we pinpointed several recurring frustrations with these tables. 
   </p>
