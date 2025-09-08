@@ -10,7 +10,7 @@ image: /images/templates/screenplay/CircuitMain.jpg
 <div style="max-width: 1000px; margin: 0 auto; padding: 20px;">
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
     <img src="{{site.baseurl}}/images/templates/screenplay/CircuitMain.jpg" style="width: 300px; height: auto;" />
-    <img src="{{site.baseurl}}/images/templates/c2.png" style="width: 300px; height: auto;" />
+    <img src="{{site.baseurl}}/images/templates/c2.jpg" style="width: 300px; height: auto;" />
   </div>
   <h3>Class: BME 214L: Computational Fundamentals of BME Design</h3>
   <h3>Semester: Fall 2024</h3>
@@ -20,13 +20,13 @@ image: /images/templates/screenplay/CircuitMain.jpg
     &emsp;para1
   </p>
 
-  <img src="{{site.baseurl}}/images/templates/assignments/c1.png" style="display: block; margin: 0 auto;   width: 100%; max-width: 600px;" />
+  <img src="{{site.baseurl}}/images/templates/c1.png" style="display: block; margin: 0 auto;   width: 100%; max-width: 600px;" />
   
   <p>
     &emsp;para2
   </p>
    
-  <img src="{{site.baseurl}}/images/templates/assignments/c3.png" style="display: block; margin: 0 auto;   width: 100%; max-width: 600px;" />
+  <img src="{{site.baseurl}}/images/templates/c3.png" style="display: block; margin: 0 auto;   width: 100%; max-width: 600px;" />
 
   <p>
   &emsp;para3
