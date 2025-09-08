@@ -37,12 +37,12 @@ image: /images/templates/jekyll/rp1.png
 
 Below are two process videos for modeling the existing lecture table:
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <video autoplay muted loop playsinline style="width: 100%; max-width: 300px; border-radius: 8px;">
+  <video controls style="width: 100%; max-width: 1000px; height: auto; display: block; margin: 0 auto;">
     <source src="{{site.baseurl}}/images/templates/rp1.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 
-  <video autoplay muted loop playsinline style="width: 100%; max-width: 300px; border-radius: 8px;">
+  <video controls style="width: 100%; max-width: 1000px; height: auto; display: block; margin: 0 auto;">
     <source src="{{site.baseurl}}/images/templates/rp2.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
