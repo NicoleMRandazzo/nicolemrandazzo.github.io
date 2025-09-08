@@ -2,7 +2,7 @@
 title: Blood Flow Project - Evaluation of Blockage Size and Length in the Internal Carotid Artery
 layout: product
 description_markdown: >-
-  Using SolidWorks to model fluid flow parameters in an unblocked and blocked carotid artery.  
+  Modeling fluid flow parameters in an unblocked and blocked carotid artery.  
 date: 2020-01-27 12:09:50 +0100
 text-button: Cool! Give me this template, please!
 image: /images/templates/free-pdf-storyboards/ca1.png
