@@ -34,3 +34,17 @@ image: /images/templates/jekyll/rp1.png
   <p>
   &emsp;Our redesigned desk, pictured above, prioritizes usability and adaptability. Inspired by existing lecture tables and airplane trays, we incorporated several enhancements. First, we added hinges to the center of our desk to allow the user to choose their preferred working area. When the desk is folded, it is around 7 inches long and 4.5 inches wide, leaving the extended version to be around 14 inches long and 4.5 inches wide. Second, we added a dual-axis hinge that enables desk movement along both the x and y axes. This allows the user to easily enter or exit their seat without disrupting their items on the desk. Lastly, we included an integrated pencil groove, preventing writing utensils from rolling off the flat surface. With these modifications, we aimed to improve comfort, reduce stress, and enhance the classroom experience of students. 
   </p>
+
+Below are two process videos for modeling the existing lecture table:
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <video autoplay muted loop playsinline style="width: 100%; max-width: 300px; border-radius: 8px;">
+    <source src="{{site.baseurl}}/images/templates/rp1.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
+  <video autoplay muted loop playsinline style="width: 100%; max-width: 300px; border-radius: 8px;">
+    <source src="{{site.baseurl}}/images/templates/rp2.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
