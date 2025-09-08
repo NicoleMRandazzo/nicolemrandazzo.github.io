@@ -17,8 +17,8 @@ image: /images/templates/free-pdf-storyboards/bp.png
   </p>
 
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
-    <img src="{{site.baseurl}}/images/templates/rp2.png" style="width: 300px; height: auto;" />
-    <img src="{{site.baseurl}}/images/templates/rp3.png" style="width: 300px; height: auto;" />
+    <img src="{{site.baseurl}}/images/templates/bp1.png" style="width: 300px; height: auto;" />
+    <img src="{{site.baseurl}}/images/templates/bp3.png" style="width: 300px; height: auto;" />
   </div>
 
   <p>
@@ -26,8 +26,8 @@ image: /images/templates/free-pdf-storyboards/bp.png
   </p>
    
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
-    <img src="{{site.baseurl}}/images/templates/rp4.png" style="width: 300px; height: auto;" />
-    <img src="{{site.baseurl}}/images/templates/rp5.png" style="width: 300px; height: auto;" />
+    <img src="{{site.baseurl}}/images/templates/bp5.png" style="width: 300px; height: auto;" />
+    <img src="{{site.baseurl}}/images/templates/bp4.png" style="width: 300px; height: auto;" />
   </div>
 
   <p>
