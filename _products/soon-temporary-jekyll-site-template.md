@@ -5,7 +5,7 @@ description_markdown: >-
   Simulating a scenario using cellular automation and the Python language
 date: 2020-04-23 11:48:06 +0100
 text-button: Let me try this!
-image: /images/templates/jekyll/CP1.png
+image: /images/templates/CP2.png
 ---
 <div style="max-width: 1000px; margin: 0 auto; padding: 20px;">
   <img src="{{site.baseurl}}/images/templates/CP2.png" style="display: block; margin: 0 auto; width: 100%; max-width: 600px;" />
