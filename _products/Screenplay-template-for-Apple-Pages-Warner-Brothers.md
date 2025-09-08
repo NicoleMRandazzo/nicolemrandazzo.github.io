@@ -11,6 +11,7 @@ image: /images/templates/screenplay/CircuitMain.jpg
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
     <img src="{{site.baseurl}}/images/templates/screenplay/CircuitMain.jpg" style="width: 300px; height: auto;" />
     <img src="{{site.baseurl}}/images/templates/c6.png" style="width: 300px; height: auto;" />
+    <img src="{{site.baseurl}}/images/templates/c10.png" style="width: 300px; height: auto;" />
   </div>
   <h3>Class: BME 214L: Computational Fundamentals of BME Design</h3>
   <h3>Semester: Fall 2024</h3>
