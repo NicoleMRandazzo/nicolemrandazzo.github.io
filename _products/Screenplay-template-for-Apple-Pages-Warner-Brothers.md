@@ -7,31 +7,28 @@ date: 2020-01-21 23:12:06 +0100
 text-button: I need this template to write my script!
 image: /images/templates/screenplay/CircuitMain.jpg
 ---
-### Class: BME 214L: Computational Fundamentals of BME Design
-### Semester: Fall 2024
-### Skills: TinkerCad, Fusion 360, soldering, LabVIEW
-<br>
-<br>
-<br>
-Warner Brothers screenplay template for Apple Pages
-Find more [templates, themes, and Jekyll tutorials](https://jekyllrb.com/resources/).
-A free template to help you write in screenplay form (Warner Brothers format) with [Apple Pages](https://www.apple.com/pages/), the free Apple productivity app.
+<div style="max-width: 1000px; margin: 0 auto; padding: 20px;">
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
+    <img src="{{site.baseurl}}/images/templates/screenplay/CircuitMain.jpg" style="width: 300px; height: auto;" />
+    <img src="{{site.baseurl}}/images/templates/c2.png" style="width: 300px; height: auto;" />
+  </div>
+  <h3>Class: BME 214L: Computational Fundamentals of BME Design</h3>
+  <h3>Semester: Fall 2024</h3>
+  <h3>Skills: TinkerCad, Fusion 360, soldering, LabVIEW</h3>
+  
+  <p>
+    &emsp;para1
+  </p>
 
-The title page is pretty much self-explanatory: you can write your title, credit and add you contact details.
+  <img src="{{site.baseurl}}/images/templates/assignments/c1.png" style="display: block; margin: 0 auto;   width: 100%; max-width: 600px;" />
+  
+  <p>
+    &emsp;para2
+  </p>
+   
+  <img src="{{site.baseurl}}/images/templates/assignments/c3.png" style="display: block; margin: 0 auto;   width: 100%; max-width: 600px;" />
 
-[https://quoteunquoteapps.com/courierprime](https://quoteunquoteapps.com/courierprime).
+  <p>
+  &emsp;para3
+  </p>
 
-<p class="tc f5 black-30 measure-wide lh-copy avenir">
-(Click on the picture for details)
-</p>
-
-<img class="w-100" src="{{site.baseurl}}/images/templates/screenplay/Screenplay_Warner_Brothers_template.png">
-
-## Cole and Haag screenplay template for Apple Pages
-[https://quoteunquoteapps.com/courierprime](https://quoteunquoteapps.com/courierprime).
-
-<p class="tc f5 black-30 measure-wide lh-copy avenir">
-(Click on the picture for details)
-</p>
-
-<img class="w-100" src="{{site.baseurl}}/images/templates/screenplay/Screenplay_Cole_Haag_template.png">
