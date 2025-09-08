@@ -13,7 +13,7 @@ image: /images/templates/free-pdf-storyboards/bp.png
   <h3>Skills: Pipetting, bacteria culturing, co-culturing, gram-staining, biochemical tests, and poster presentation</h3>
   
   <p>
-    &emsp;The objective of this project was to identify a physical object with a design flaw and propose a tangible modification to better meet user needs. Our team of three chose the folding tables for lecture chairs - commonly found in auditorium-style classrooms -  as our focus. The primary users and/or customers of this object are college students and educational institutions that utilize fixed seating. Drawing from our experience at UT Austin and conversations with fellow students, we pinpointed several recurring frustrations with these tables. 
+    &emsp;This research focused on isolating and analyzing bacterial species from a soil sample to assess their potential for antibiotic resistance or production. In response to the growing antibiotic resistance crisis, the Tiny Earth initiative empowers undergraduate students to explore novel antibiotic sources by investigating soil-dwelling microbes. Promising bacterial colonies are submitted to the Tiny Earth Chemistry Hub for advanced analysis and potential drug development.  
   </p>
 
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
