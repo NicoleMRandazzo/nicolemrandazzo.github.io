@@ -10,7 +10,6 @@ image: /images/templates/screenplay/CircuitMain.jpg
 <div style="max-width: 1000px; margin: 0 auto; padding: 20px;">
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
     <img src="{{site.baseurl}}/images/templates/screenplay/CircuitMain.jpg" style="width: 300px; height: auto;" />
-    <img src="{{site.baseurl}}/images/templates/c6.png" style="width: 300px; height: auto;" />
     <img src="{{site.baseurl}}/images/templates/c10.png" style="width: 300px; height: auto;" />
   </div>
   <h3>Class: BME 214L: Computational Fundamentals of BME Design</h3>
