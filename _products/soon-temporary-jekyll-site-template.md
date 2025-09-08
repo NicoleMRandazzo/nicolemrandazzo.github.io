@@ -20,7 +20,8 @@ image: /images/templates/jekyll/CP1.png
  <video autoplay muted loop playsinline style="width: 100%; max-width: 1000px; height: auto; display: block; margin: 0 auto;">
     <source src="{{site.baseurl}}/images/templates/CP1.mp4" type="video/mp4">
     Your browser does not support the video tag.
-
+ </video>
+  
   <p>
     &emsp;For our cellular automaton, we were required to define a mesh - or 2D matrix - where each cell represented a discrete agent occupying a 1 km x 1 km area. Agents could interact with adjacent cells, including diagonals, using a Moore radius of 1. Each cell could exist in one of three states:  water (blue), tiger sharks (grey), or green sea turtles (green). The simulation advanced in monthly time steps, running for 240 iterations to represent a 20-year span. We developed equations to model birth and death rates for both species, and visualized the results through mesh snapshots and a temporal evolution graph (pictured above). This illustrated how the oil spill disrupted population trends.
   </p>
