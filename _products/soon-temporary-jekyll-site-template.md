@@ -26,7 +26,7 @@ image: /images/templates/CP2.png
     &emsp;For our cellular automaton, we were required to define a mesh - or 2D matrix - where each cell represented a discrete agent occupying a 1 km x 1 km area. Agents could interact with adjacent cells, including diagonals, using a Moore radius of 1. Each cell could exist in one of three states:  water (blue), tiger sharks (grey), or green sea turtles (green). The simulation advanced in monthly time steps, running for 240 iterations to represent a 20-year span. We developed equations to model birth and death rates for both species, and visualized the results through mesh snapshots and a temporal evolution graph (pictured above). This illustrated how the oil spill disrupted population trends.
   </p>
    
-  <img src="{{site.baseurl}}/images/templates/CP3.JPG" style="display: block; margin: 0 auto; width: 100%; max-width: 600px;" />
+  <img src="{{site.baseurl}}/images/templates/CP3.png" style="display: block; margin: 0 auto; width: 100%; max-width: 600px;" />
   
   <p>
   &emsp;After generating our baseline model, we explored how various factors  -  such as the volume of oil spilled, the cleanup duration, and the timing of the spill - impacted species survival. As shown in the above picture, these factors significantly influenced population outcomes. It is important to note that our model made simplifying assumptions, such as excluding interactions with other species and environmental variables. A more comprehensive simulation would require additional ecological data and could be adapted to study other disasters, such as wildfires. 
