@@ -14,22 +14,22 @@ Hello! I am Nicole, a third-year engineering honors student at UT Austin, majori
 Some of my favorite hobbies are drawing, painting, and crocheting. These hobbies allow me to relax in my free time. Below are a few pieces I have created that reflect my passion for creativity and hands-on design.
 
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
-    <img src="{{site.baseurl}}/images/templates/D1.jpg" style="width: 300px; height: auto;" />
-    <img src="{{site.baseurl}}/images/templates/D2.JPG" style="width: 300px; height: auto;" />
+    <img src="{{site.baseurl}}/images/templates/D1.jpg" style="width: auto; height: auto;" />
+    <img src="{{site.baseurl}}/images/templates/D2.JPG" style="width: auto; height: auto;" />
   </div>
 
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
-    <img src="{{site.baseurl}}/images/templates/P1.jpg" style="width: 300px; height: auto;" />
-    <img src="{{site.baseurl}}/images/templates/P2.JPG" style="width: 300px; height: auto;" />
+    <img src="{{site.baseurl}}/images/templates/P1.jpg" style="width: auto; height: auto;" />
+    <img src="{{site.baseurl}}/images/templates/P2.JPG" style="width: auto; height: auto;" />
   </div>
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
-    <img src="{{site.baseurl}}/images/templates/P3.JPG" style="width: 300px; height: auto;" />
-    <img src="{{site.baseurl}}/images/templates/P4.jpg" style="width: 300px; height: auto;" />
+    <img src="{{site.baseurl}}/images/templates/P3.JPG" style="width: auto; height: auto;" />
+    <img src="{{site.baseurl}}/images/templates/P4.jpg" style="width: auto; height: auto;" />
   </div>
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
-    <img src="{{site.baseurl}}/images/templates/C2.jpg" style="width: 300px; height: auto;" />
-    <img src="{{site.baseurl}}/images/templates/C1.jpg" style="width: 300px; height: auto;" />
+    <img src="{{site.baseurl}}/images/templates/C2.jpg" style="width: auto; height: auto;" />
+    <img src="{{site.baseurl}}/images/templates/C1.jpg" style="width: auto; height: auto;" />
   </div>
 
