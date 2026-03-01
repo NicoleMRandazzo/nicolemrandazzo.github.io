@@ -19,7 +19,8 @@ subtitle: This website contains examples of projects I have done during my time 
 	<section class="cf pb5 ph6-ns ph2">
 		<div class="container flex-wrap flex">
 
-				{% for product in site.products reversed %}
+				{% assign sorted_products = site.products | sort: "order" %}
+				{% for product in sorted_products %}
 
 				<div itemprop="itemListElement" itemscope itemtype="http://schema.org/Product" class="product-list w-100 w-50-m ph2-m w-third-l ph3">
 
