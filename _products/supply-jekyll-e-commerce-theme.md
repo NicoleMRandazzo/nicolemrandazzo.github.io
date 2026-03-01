@@ -1,6 +1,7 @@
 ---
 title: Redesign Project - Folding Table for Lecture Chairs
 layout: product
+order: 1
 description_markdown: >-
   Redesigning an existing object that better addresses customer needs. 
 date: 2020-05-09 11:48:06 +0100
