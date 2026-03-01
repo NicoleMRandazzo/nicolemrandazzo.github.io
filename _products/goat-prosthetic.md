@@ -3,7 +3,7 @@ title: "Product Project: Custom Prosthetic for a Goat with a Lame Leg"
 layout: product
 description_markdown: >-
   Designing a custom prosthetic to better address the mobility needs of a goat.  
-date: 2020-01-21 23:12:06 +0100
+date: 2018-01-21 23:12:06 +0100
 text-button: I need this template to write my script!
 image: /images/templates/screenplay/CircuitMain.jpg
 ---
