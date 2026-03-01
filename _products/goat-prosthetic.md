@@ -9,8 +9,7 @@ image: /images/templates/screenplay/CircuitMain.jpg
 ---
 <div style="max-width: 1000px; margin: 0 auto; padding: 20px;">
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
-    <img src="{{site.baseurl}}/images/templates/screenplay/CircuitMain.jpg" style="width: 300px; height: auto;" />
-    <img src="{{site.baseurl}}/images/templates/c10.png" style="width: 300px; height: auto;" />
+    <img src="{{site.baseurl}}/images/templates/GP1.jpg" style="width: 300px; height: auto;" />
   </div>
   <h3>Organization: ADAPT Texas</h3>
   <h3>Semester: Junior Year </h3>
@@ -28,13 +27,13 @@ image: /images/templates/screenplay/CircuitMain.jpg
   &emsp;Using the collected measurements, we developed detailed engineering drawings and began modeling the prosthetic in SolidWorks. One of the primary design challenges was ensuring proper alignment to reduce strain on adjacent joints while maintaining stability and comfort during walking. I was responsible for the majority of the CAD development and independently designed the basket component of the prosthetic (pictured below). We iteratively prototyped components using 3D printing, allowing us to test fit, evaluate comfort, and refine the design based on feedback.  
   </p>
 
-  <img src="{{site.baseurl}}/images/templates/c9.png" style="display: block; margin: 0 auto;   width: 100%; max-width: 600px;" />
+  <img src="{{site.baseurl}}/images/templates/GP2.PNG" style="display: block; margin: 0 auto;   width: 100%; max-width: 600px;" />
 
   <p>
   &emsp;Currently, we have developed and tested a functional prototype on the goat (picture below). Building on this iteration, we plan to fabricate the final device using biocompatible metals to ensure long-term durability and functional support. By integrating technical modeling skills with direct stakeholder collaboration, we aim to create a prosthetic design that meaningfully improves the goat’s mobility while aligning with Safe In Austin’s mission of compassionate rehabilitation.
   </p>
 
-  <img src="{{site.baseurl}}/images/templates/c3.png" style="display: block; margin: 0 auto;   width: 100%; max-width: 600px;" />
+  <img src="{{site.baseurl}}/images/templates/GP3.PNG" style="display: block; margin: 0 auto;   width: 100%; max-width: 600px;" />
 
   <p>
   &emsp;This project reinforces the importance of user-centered design in biomedical engineering. Beyond technical execution, it requires empathy, communication, and alignment with the values of the organization we were supporting. Through this experience, I have gained a deeper understanding of how engineering solutions can directly enhance quality of life when developed thoughtfully and collaboratively.
