@@ -5,7 +5,7 @@ description_markdown: >-
   Designing a custom prosthetic to better address the mobility needs of a goat.  
 date: 2018-01-21 23:12:06 +0100
 text-button: I need this template to write my script!
-image: /images/templates/screenplay/CircuitMain.jpg
+image: /images/templates/GP1.jpg
 ---
 <div style="max-width: 1000px; margin: 0 auto; padding: 20px;">
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
