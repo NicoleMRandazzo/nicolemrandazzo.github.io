@@ -1,6 +1,7 @@
 ---
 title: Coding Project - Predator-Prey Relation in the Gulf Of Mexico Following the 2010 Deepwater Horizon Oil Spill
 layout: product
+order: 2
 description_markdown: >-
   Simulating a scenario using cellular automation and the Python language
 date: 2020-04-23 11:48:06 +0100
