@@ -1,6 +1,7 @@
 ---
 title: "Product Project: Custom Prosthetic for a Goat with a Lame Leg"
 layout: product
+order: 7
 description_markdown: >-
   Designing a custom prosthetic to better address the mobility needs of a goat.  
 date: 2019-10-18 13:20:50 +0100
