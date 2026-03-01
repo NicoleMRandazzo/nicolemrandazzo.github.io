@@ -1,6 +1,7 @@
 ---
 title: Coding Project - Statistics Analysis
 layout: product
+order: 6
 description_markdown: >-
   Conducting a statistical analysis on data acquired from BME students. 
 date: 2019-03-18 13:20:50 +0100
