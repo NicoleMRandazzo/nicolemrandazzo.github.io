@@ -1,6 +1,7 @@
 ---
 title: Blood Flow Project - Evaluation of Blockage Size and Length in the Internal Carotid Artery
 layout: product
+order: 4
 description_markdown: >-
   Modeling fluid flow parameters in an unblocked and blocked carotid artery.  
 date: 2020-01-27 12:09:50 +0100
