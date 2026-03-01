@@ -1,6 +1,7 @@
 ---
 title: Research Project - Identification and Analysis of Antibiotic-Producing Bacteria From Soil Sample
 layout: product
+order: 3
 description_markdown: >-
   Semester-long research project that contributed to the Tiny Earth research initiative. 
 text-button: Can I get this template, please?
