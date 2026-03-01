@@ -1,0 +1,74 @@
+---
+title: Nicole M. Randazzo
+hero: Welcome! My name is Nicole.
+subtitle: This website contains examples of projects I have done during my time in university.
+---
+
+<style>
+  .aspect-ratio--object {
+    transition: transform 0.3s ease;
+  }
+
+  .aspect-ratio--object:hover {
+    transform: scale(1.05) translateY(-2px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+</style>
+
+<div itemscope itemtype="http://schema.org/ItemList" class="content" id="products">
+	<section class="cf pb5 ph6-ns ph2">
+		<div class="container flex-wrap flex">
+
+				{% for product in site.products reversed %}
+
+				<div itemprop="itemListElement" itemscope itemtype="http://schema.org/Product" class="product-list w-100 w-50-m ph2-m w-third-l ph3">
+
+						<div itemprop="image" class="style aspect-ratio aspect-ratio--1x1" >
+							<a href="{{ product.url }}" style="background-image:url({{ product.image }});"
+						class="db bg-center cover aspect-ratio--object" />
+								{% comment %}
+								<h4 class="f4 helvetica bg-light-green no-underline white shadow-2 grow pa2 pv3 dib mr3">$ {{ product.price }}</h4>
+								{% endcomment %}
+							</a>
+						</div>
+
+						<article itemprop="itemListElement" itemscope itemtype="http://schema.org/Offer" class="product-details dib v-mid lh-copy avenir">
+							<h3>
+								<a  itemprop="url" class="f5 f4-ns mb0 link black-90 link dim avenir" href="{{ product.url }}">
+									<span itemprop="name">{{ product.title }}</span>
+								</a>
+							</h3>
+							{% comment %}
+							<h4 itemprop="itemOffered">Category: {{ product.cat }}</h4>
+							{% endcomment %}
+							<div itemprop="description" class="product-description f6 f5 fw4 mt1 black-60 pb4">
+								{{ product.description_markdown | truncate: 92 | markdownify }}
+							</div>
+							{% comment %}
+							 <div class="project-meta">
+   								{% if product.class %}
+     								<p><strong>Class:</strong> {{ product.class }}</p>
+    							{% endif %}
+								 {% if product.semester %}
+   							   		<p><strong>Semester:</strong> {{ product.semester }}</p>
+   								{% endif %}
+   							 	{% if product.skills %}
+      								<p><strong>Skills:</strong>
+        								{% for skill in product.skills %}
+          									<span class="skill-tag">{{ skill }}</span>
+        								{% endfor %}
+     								 </p>
+    							{% endif %}
+							 </div>
+
+						</article>
+						{% endcomment %}
+				</div>
+				{% endfor %}
+
+		</div>
+		{% comment %}
+		<div class="pa3">{% include site-search.html %}</div>
+		{% endcomment %}
+	</section>
+</div>
