@@ -1,6 +1,7 @@
 ---
 title: Circuit Project - ECG PCB and Circuit Design
 layout: product
+order: 5
 description_markdown: >-
   Designing a custom printed circuit board to measure an ECG signal. 
 date: 2020-01-21 23:12:06 +0100
